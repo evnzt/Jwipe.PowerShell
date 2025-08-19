@@ -1,3 +1,7 @@
+<p align="center">
+<img width="340" height="220" alt="428757709-0d87934c-ecbf-4062-8e22-dd29b5c00add" src="https://github.com/user-attachments/assets/6f9f55e7-2bd5-481b-a19c-5eccf86a1a2e" alt="Microsoft PowerShell Logo" />
+</p>
+
 <h1>JWipe - Disk Sanitization</h1>
 
 <h2>Description</h2>
